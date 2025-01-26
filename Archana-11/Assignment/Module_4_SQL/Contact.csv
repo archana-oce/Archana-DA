@@ -1,0 +1,4 @@
+ContactID,CompanyID,FirstName,LastName,Street,City,State,Zip,IsMain,Email,Phone
+1,1,Rachel,Adams,"6000 Walnut Street",Philadelphia,PA,19139,1,rachel.adams@urban.com,215-333-4444
+2,2,Michael,Smith,"123 Main Street","Fort Washington",PA,19034,1,michael.smith@tollbrothers.com,215-111-2222
+3,3,Sarah,Johnson,"200 Apple Way",Cupertino,CA,95014,1,sarah.johnson@apple.com,408-555-1212

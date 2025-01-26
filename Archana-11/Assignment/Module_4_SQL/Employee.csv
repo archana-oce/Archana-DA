@@ -1,0 +1,4 @@
+EmployeeID,FirstName,LastName,Salary,HireDate,JobTitle,Email,Phone
+1,Lesley,Bland,75000.00,2015-06-01,Manager,lesley.bland@marketco.com,123-456-7890
+2,Jack,Lee,60000.00,2018-09-15,Developer,jack.lee@marketco.com,123-555-9876
+3,Dianne,Connor,55000.00,2019-03-25,"Sales Associate",dianne.connor@marketco.com,123-222-4567
